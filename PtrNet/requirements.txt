@@ -1,0 +1,6 @@
+torch>=1.13
+numpy>=1.21
+pandas>=1.4
+openpyxl>=3.0
+scipy>=1.7
+tqdm>=4.60
